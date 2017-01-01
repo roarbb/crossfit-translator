@@ -6,8 +6,8 @@ class Output extends Component {
   constructor(props) {
     super(props);
 
-    this._setOutput();
     this.processor = new Processor();
+    this.componentWillReceiveProps(props);
   }
 
   componentWillReceiveProps(props) {

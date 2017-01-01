@@ -25,7 +25,7 @@ class App extends Component {
         </div>
 
         <footer className="footer">
-          <p>&copy; Matej Sajgal &middot; matej@sajgal.com 2017</p>
+          <p>&copy; Matej Sajgal 2017 &middot; matej@sajgal.com</p>
         </footer>
 
       </div>
