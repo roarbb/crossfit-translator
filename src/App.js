@@ -25,7 +25,12 @@ class App extends Component {
         </div>
 
         <footer className="footer">
-          <p>&copy; Matej Sajgal 2017 &middot; matej@sajgal.com</p>
+          <p>
+            &copy; Matej Sajgal 2017 &middot; matej@sajgal.com
+            <span className="float-xs-right">
+              <a href="https://github.com/roarbb/crossfit-translator" target="_blank">Source code</a>
+            </span>
+          </p>
         </footer>
 
       </div>
