@@ -20,7 +20,7 @@ class ShareButton extends Component {
     }
 
     const buttonClass = this.state.copied ? 'btn-success' : 'btn-secondary';
-    const buttonText = this.state.copied ? 'Copied to clipboard!' : 'Copy this translation and share it';
+    const buttonText = this.state.copied ? 'Copied to clipboard!' : 'Copy link to this translation';
 
     return(
       <div>

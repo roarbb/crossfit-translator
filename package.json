@@ -2,6 +2,7 @@
   "name": "crossfit-translator",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://cftranslator.sajgal.com",
   "devDependencies": {
     "react-scripts": "0.8.4"
   },
